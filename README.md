@@ -19,3 +19,10 @@
   - 데이터사이언스스쿨_수학편
   - 확률통계학 강의로 보충
 5. 추가예정
+
+
+
+### 공부할 때 참고할 자료 및 사이트
+
+1. https://wikidocs.net/    - 위키독스 오픈 책
+2.  https://datascienceschool.net/intro.html  -파이썬, 수학, 머신러닝 책 자료
