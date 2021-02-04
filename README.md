@@ -44,3 +44,6 @@
 
 1. https://wikidocs.net/    - 위키독스 오픈 책
 2.  https://datascienceschool.net/intro.html  -파이썬, 수학, 머신러닝 책 자료
+
+3. https://pabi.smartlearn.io/ posco 학습 사이트
+
