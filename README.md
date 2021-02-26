@@ -49,3 +49,13 @@
 5. https://www.youtube.com/playlist?list=PLSN_PltQeOyjmRIsC7VNirXOBqWoypd4V 확률통계 기초 무료 강의
 6. https://www.khanacademy.org/math/multivariable-calculus 미적분학 기초 무료 강의
 7. 인프런 - 각종 강의 홈페이지. 퀄리티가 괜찮은 강의가 많은듯?
+
+
+
+### Kaggle practice for beginner
+
+1. Classification Problem: https://www.kaggle.com/c/titanic
+2. Regression Problem: https://www.kaggle.com/c/house-prices-advanced-regression-techniques
+3. Computer Vision: https://www.kaggle.com/c/digit-recognizer
+4. Image Processing: https://www.kaggle.com/c/facial-keypoints-detection
+5. Natural Language Processing: https://www.kaggle.com/c/word2vec-nlp-tutorial
