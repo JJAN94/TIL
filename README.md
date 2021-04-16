@@ -55,6 +55,7 @@
 5. https://www.youtube.com/playlist?list=PLSN_PltQeOyjmRIsC7VNirXOBqWoypd4V 확률통계 기초 무료 강의
 6. https://www.khanacademy.org/math/multivariable-calculus 미적분학 기초 무료 강의
 7. 인프런 - 각종 강의 홈페이지. 
+8. https://shb.skku.edu/bigs/menu3/sub01.jsp#l14 빅데이터 책 추천
 
 ### Kaggle practice for beginner
 
