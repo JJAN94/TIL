@@ -11,7 +11,6 @@
 ### 4월 공부계획 (2021년)
 
 1. 자격증 준비
-	
   - ADsP (5월22일)
   - SQLD (5월29일)
 
@@ -64,3 +63,5 @@
 3. Computer Vision: https://www.kaggle.com/c/digit-recognizer
 4. Image Processing: https://www.kaggle.com/c/facial-keypoints-detection
 5. Natural Language Processing: https://www.kaggle.com/c/word2vec-nlp-tutorial
+
+change my laptop yeah~!
