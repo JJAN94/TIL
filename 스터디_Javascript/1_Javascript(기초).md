@@ -1,4 +1,4 @@
-# Javascript 기초
+# Javascript 기초1
 
 <img src="C:\Users\JAY\Desktop\TIL\스터디_Javascript\js_front.jpg" alt="js_front" style="zoom:50%;" align='left'/>
 
