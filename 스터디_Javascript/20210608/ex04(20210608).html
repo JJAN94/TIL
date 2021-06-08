@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="EUC-KR">
+<title>Insert title here</title>
+</head>
+<body>
+<script type="text/javascript">
+var day, week;
+var today = new Date();
+week = new Array("일", "월","화","수","목","금","토");
+day = week[today.getDay()];
+document.write("오늘은 : "+today.getFullYear()+"년 "+ (today.getMonth()+1)+
+				"월 "+today.getDate()+"일 " + day+"요일<p>")
+				
+document.write(today.getDay())//getDay는 요일(오늘이 화요일이 2를 리턴)
+document.write("<br>"+today.getYear()) //현재 년도에서 1990을 뺀 숫자를 리턴해준다. 그래서 지금은 121이 나온다.
+/*
+ * getYear : deprecated(중요도가 떨어져서 앞으로 사용안될것을 의미) -> getFullYear()로 쓰자. 
+ */
+ 
+// Math 내장 객체
+document.write("<hr>");
+document.write(Math.max(10,20) + "<br>"); //최대값
+document.write(Math.min(10,20) + "<br>"); //최소값
+document.write(Math.ceil(7.8) + "<br>"); //올림
+document.write(Math.floor(7.8) + "<br>"); //내림
+document.write(Math.abs(-8.3) + "<br>"); //절대값
+document.write(Math.PI + "<br>"); //pi=3.141592...
+
+ //https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=diceworld&logNo=220168932456 블로그 참고
+ 
+ 
+
+</script>
+
+</body>
+</html>
