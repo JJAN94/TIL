@@ -1,14 +1,16 @@
 # 데이터 분석의 중요한 단계 : 데이터 수집
 
-데이터 수집의 일반적인 것 = web에서 정보를 가져오는것
+데이터 분석 순서
+- 데이터 수집 -> 데이터 유형 및 속성 ㅍ파악 -> 데이터 변환 -> 데이터 저장 -> 데이터 정제 -> 분석 단계
 
+데이터 수집의 일반적인 것 = web에서 정보를 가져오는것
 
 
 우선 web에 대해 알아보자.
 
 ## Web 기본 내용
 
-<img src="C:\Users\JAY\Desktop\TIL\스터디_Python\PYTHON(web&crawling)\client_server.jpg" alt="client_server" style="zoom:50%;" align='left'/>
+<img src="C:\Users\JAY\Desktop\TIL\스터디_Python\python_(web&crawling)\client_server.jpg" alt="client_server" style="zoom:50%;" align='left'/>
 
 ### Index
 
@@ -78,7 +80,7 @@ URL에 데이터가 포함되냐 아니냐 여부에 따라 방식이 구분됨.
   - 국제표준화기구(ISO)에서 개발한 모델로, 컴퓨터 네트워크 프로토콜 디자인과 통신을 계층으로 나누어 설명한 것이다.
 - 하위 계층으로 갈수록 페이로드가 증가
 
-<img src="C:\Users\JAY\Desktop\TIL\스터디_Python\PYTHON(web&crawling)\osi_model.png" alt="osi_model" style="zoom:50%;" align='left'/>
+<img src="C:\Users\JAY\Desktop\TIL\스터디_Python\python_(web&crawling)\osi_model.png" alt="osi_model" style="zoom:50%;" align='left'/>
 
 
 
