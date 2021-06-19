@@ -1,5 +1,10 @@
 # TIL
-
+### 공부 내용
+- python
+- oracle sql
+- MongoDB
+- Hadoop, Spark
+- OpenCV
 
 
 
