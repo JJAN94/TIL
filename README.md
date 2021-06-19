@@ -5,6 +5,7 @@
 - MongoDB
 - Hadoop, Spark
 - OpenCV
+- ML/DL
 
 
 
