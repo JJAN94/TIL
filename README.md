@@ -7,7 +7,7 @@
 - OpenCV
 - ML/DL
 
-
+- 수리통계학(statistics) 7월까지 완강
 
 
 
