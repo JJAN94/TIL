@@ -1,0 +1,28 @@
+	# 자바 기본 문법
+
+	1. 파일이름.java -> javac 파일이름.java -> 파일이름.class
+
+	2. 자바의 실행 단위는 class이다.
+
+	3. 자바의 접근제한자.
+		public - protected(상속시) - private - default (같은 패키지 안에서 공개)
+	
+	4. 클래스명, 메서드명, 벰버 변수 앞에서 선언된다. (접근제한자)
+
+	5. static, abstract 등도 접근제한자와 함께 선언된다.
+
+	6. 기본자료형(byte, short, int, long, float, double, char, boolean)  / 참조형(배열, 클래스)
+	
+	// 기본 자료형 -> 제어문 -> 배열 -> 메서드 및 클래스 -> 상속 -> 추상화 -> 다형성
+
+	ex) System.out.println("Ex01's method");
+	
+	public class PrintStream {
+		public void println(String str){
+			~~~
+		}
+	}
+	== PrintStream System.out = new PrintStream();
+		 System.out.println();
+
+
