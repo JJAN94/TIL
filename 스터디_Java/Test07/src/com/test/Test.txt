@@ -1,0 +1,15 @@
+public class Test{
+	class n_test{}
+	static class s_test{}
+	public static void main(String[] args){}
+}
+/*
+AA.class
+AA$bb.class
+AA$cc.class
+파일이름 = AA.java
+class AA{
+	class bb{}
+	class cc{}
+}
+*/

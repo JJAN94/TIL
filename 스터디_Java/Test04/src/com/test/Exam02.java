@@ -34,17 +34,17 @@ public class Exam02 {
 	}
 	
 	public static void cnvr05() {
-		Scanner scan = new Scanner(System.in);
-//		for(i=0; i<scan.nextLine().length(); i++) {
-		char ch[] = scan.next().toCharArray();
-		
-		String scan1;
-		scan1 = scan.nextLine();
-		
-		for(int i=0;i<scan1.length();i++) {
-			scan1.sub
-		}
-		System.out.println(scan1.);
+//		Scanner scan = new Scanner(System.in);
+////		for(i=0; i<scan.nextLine().length(); i++) {
+//		char ch[] = scan.next().toCharArray();
+//		
+//		String scan1;
+//		scan1 = scan.nextLine();
+//		
+//		for(int i=0;i<scan1.length();i++) {
+//			scan1.sub
+//		}
+//		System.out.println(scan1.);
 	}
 	
 	public static void cnvr06 (String res) {
@@ -67,7 +67,7 @@ public class Exam02 {
 		cnvr02(str);
 		cnvr03(str);
 		cnvr04(str);
-		cnvr05();
+//		cnvr05();
 		cnvr06(str);
 		cnvr07(str);
 		
