@@ -6,8 +6,9 @@
 - Hadoop, Spark
 - OpenCV
 - ML/DL
-
+  - 밑바닥 부터 시작하는 딥러닝1 완독
 - 수리통계학(statistics) 7월까지 완강
+- 기계학습을 위한 선형대수와 최적화이론 완독
 
 
 
