@@ -1,4 +1,28 @@
-# TIL
+# :sparkles: TIL :sparkles:
+
+Today I Learned
+오늘 학습한 내용, 새롭게 알게된 내용 정리하기~
+
+# Python
+
+# MachineLearning
+
+# DeepLearning
+
+# OpenCV
+
+# Computer vision
+
+# DB
+
+# Front-End
+
+
+
+
+
+---
+
 ### 공부 내용
 - python
 - oracle sql
