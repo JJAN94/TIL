@@ -1,0 +1,30 @@
+20210918
+
+1. 프로젝트 개요
+남성 의류 추천 시스템
+추가) ...
+
+2. 프로젝트 진행
+- 2.1 데이터 확보
+	- crawling : instagram, musinsa, etc
+	- deep-fashion, detectron2 : validation dataset
+	- metric learning : K-Fashion Dataset (AIHUB)
+
+- 2.2 플로우
+	- 데이터확보(의류image) -> COCO dataset, detectron2를 이용한 확보데이터 human detection 후 crop 
+	-> metric learning, annoy를 이용한 분류기 설계 -> 웹/앱 서비스 제작
+
+- 2.3 코드 정리
+	- 추가예정(세부 사항/모델명 등)
+
+- pluses) 사용 기술
+	- 크롤링 : selenium, beautifulSoup ...
+	- 데이터 가공 : numpy, pandas, json ...
+	- 모델 학습 : pytorch, tensorflow ...
+	- 프론트 : adobe xd
+	- 백엔드 : flask
+
+3. 현시점 문제/보완점 및 앞으로 해야할 일 (09/18)
+	1. 확보 데이터양의 부족 (instagram 계속적인 update / musinsa 등의 스토어 옷의 부족)
+	2. metric learning의 학습량 부족
+	3. 웹/앱 제작 필요
