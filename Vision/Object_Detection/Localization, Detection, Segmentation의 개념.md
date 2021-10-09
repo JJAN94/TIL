@@ -11,7 +11,9 @@
 
 ## Localization, Detection, Segmentation
 
-![개념1](C:\Users\JAY\Desktop\github\TIL\컴퓨터비전\개념1.jpg)
+![개념1](./img1.jpg)
+
+
 https://theaisummer.com/Localization_and_Object_Detection/
 
 
