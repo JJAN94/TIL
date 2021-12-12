@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="EUC-KR">
+<title>Insert title here</title>
+</head>
+<script type="text/javascript">
+	// 함수를 이용해서 html table 태그의 속성값을 변경해보자.
+	function Result(){
+		myTlb = new Array("진\'s 홈페이지", "윤\'s 홈페이지", "루리홈페이지", "로어홈페이지",
+						"퓨리홈페이지", "엽스홈페이지","원스홈페이지");
+		myTlbColor = new Array("#DB7093", "#D8BFD8");
+		
+		for (i=0;i<myTlb.length;i++){
+			document.write("<tr>");
+			document.write("<td bgcolor='", myTlbColor[i% 2], "'>");
+			document.write(myTlb[i]);
+			document.write("</td>");
+			document.write("</tr>");
+		}
+	}
+	
+/*
+<th>내용</th> : table head의 약자로, 표의 제목을 쓰는 역할 (기본값은 굵은 글씨체에 중앙정렬)
+<tr>내용</tr> : table row의 약자로, 가로줄을 만드는 역할 (기본값은 보통 글씨체에 왼쪽정렬)
+<td>내용</td> : table data의 약자로, 셀을 만드는 역할 (기본값은 보통 글씨체에 왼쪽정렬)
+ */
+</script>
+
+
+<body>
+<table border="1">
+	<script type="text/javascript">
+		Result();
+	</script>
+</table>
+
+</body>
+</html>

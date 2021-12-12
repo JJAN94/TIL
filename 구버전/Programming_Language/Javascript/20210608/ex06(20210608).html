@@ -1,0 +1,78 @@
+<html><head><title>mynode_test</title></head>
+	<body>		<div> 문서객체는 트리 구조를 만들 수 있다.</div>
+		<script type="text/javascript">
+			document.writeln(document.firstChild.childNodes[0]);
+			document.writeln(document.firstChild.childNodes[1]);
+			
+			//body의 객체를 출력 하고 싶다.
+			document.write("<br>-------------")
+			document.writeln("<br>"+document.firstChild.childNodes[2]+"<br>------------<br>");
+			
+			var res = document.firstChild.childNodes[2];
+			document.write(typeof res+"<br>노드네임"+res.nodeName+"<br>-----------");
+			document.write("<br>노드타입"+res.nodeType+"<br>-----------");
+			document.write("<br>노드밸류"+res.nodeValue+"<br>-----------");
+			
+			//div태그 가져온다.
+			document.writeln("<br>"+res.childNodes[1].nodeName+"<br>");
+			
+			//div안에 text인 문서객체는 트리 구조를 만들수 있다.를 리턴해 보자
+			document.write(res.childNodes[1].textContent);
+			document.write(res.childNodes[1].innerHTML);
+			document.write("<br>---------------<br>")
+			document.write(document.firstChild.innerText);
+			document.write(document.firstChild.innerHTML);
+			
+		</script>
+
+	</body>
+</html>
+
+<!-- 
+-----<html>을 카피해보자-----
+1. copy element
+<html><head>
+<meta charset="EUC-KR">
+<title>mynode_test</title>
+</head>
+<body>
+
+	<div> 문서객체는 트리 구조를 만들 수 있다.</div>
+
+</body></html>
+
+
+2. copy XPATH
+/html
+
+3. copy JS PATH
+document.querySelector("html")
+
+-->
+
+
+<!-- 
+-----<head>를 카피해보자-----
+1. copy element
+<head>
+<meta charset="EUC-KR">
+<title>mynode_test</title>
+</head>
+
+2. copy JS PATH
+document.querySelector("head")
+
+3. copy XPATH
+/html/head
+
+
+ -->
+
+
+
+
+
+
+
+
+

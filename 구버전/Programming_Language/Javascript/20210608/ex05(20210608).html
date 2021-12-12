@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="EUC-KR">
+<title>객체 생성</title>
+
+<script type="text/javascript">
+	function sung(my_name, kor, eng, mat){
+		this.my_name = my_name;
+		this.kor = kor;
+		this.eng = eng;
+		this.mat = mat;
+		
+		this.gettot = function(){
+			tot = this.kor + this.eng + this.mat; //gettot만 호출할 수 있는 변수 tot (this가 없으니까)
+			return tot;
+		}
+		
+		this.getavg = function(){
+			avg = (this.kor+this.eng+this.mat) / 3;
+			return avg;
+		}
+	}
+
+</script>
+
+</head>
+<body>
+<script type="text/javascript">
+// document.write(typeof(123)) // Number로 리턴
+
+	var jumsu=[];
+//	document.write(typeof jumsu+"<br>"); // object 객체라고 리턴됨
+//	document.write(typeof 1111+"<br>"); // Number 객체
+//	document.write(typeof true+"<br>"); // boolean 객체
+
+	jumsu[0] = new sung("도미니까", 90, 80, 70);
+	jumsu[1] = new sung("도미니꼬", 90, 80, 70);
+	jumsu[2] = new sung("다미니까", 100, 80, 50);
+	jumsu[3] = new sung("두미니께", 80, 60, 80);
+	
+	for (i=0; i<jumsu.length ;i++){
+		document.write(jumsu[i].my_name+":"+ jumsu[i].gettot()+"<br>");
+		//document.write(jumsu[i].my_name+"의 평균 :"+ jumsu[i].gettot()/3+"<br>");
+		document.write(jumsu[i].my_name+"의 평균 :"+ jumsu[i].getavg()+"<br>");
+		//document.write(jumsu[i].my_name+"의 평균 :"+ Math.avg(jumsu[i].gettot())+"<br>"); Math엔 avg가 없나보다..
+		
+	}
+	
+	document.write("<hr>");
+	
+	for(res in jumsu){
+		document.write(jumsu[res].my_name+":"+ jumsu[res].gettot()+"<br>");
+	}
+	
+
+
+
+</script>
+
+
+</body>
+</html>
