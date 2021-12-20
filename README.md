@@ -15,13 +15,7 @@ Today I Learned
 
 # DeepLearning
 
-# OpenCV
-
-# Computer vision
-
 # DB
-
-# Front-End
 
 
 
@@ -31,10 +25,7 @@ Today I Learned
 
 ### 공부 내용
 - python
-- oracle sql
-- MongoDB
-- Hadoop, Spark
-- OpenCV
+- oracle sql, Mysql
 - ML/DL
 - 기계학습을 위한 선형대수와 최적화이론 완독
 
