@@ -1,11 +1,10 @@
 # :sparkles:파이썬 기본 문법 정리:sparkles:
 
-- 파이썬 기본 문법
+-  :sparkling_heart:파이썬 기본 문법:sparkling_heart:
 
   - 파이썬문법1
 
     - 주석&출력
-
     - 변수
 
     - 식별자
@@ -20,9 +19,12 @@
 
     - 연산자
 
-      
 
-  - 파이썬문법2
+  
+
+  
+
+  - ​파이썬문법2
 
     - 조건문
 
@@ -32,7 +34,10 @@
 
     - list comprehension
 
-      
+
+  
+
+  
 
   - 파이썬문법3
 
@@ -48,6 +53,9 @@
     - map, filter, reduce
     - decolator
 
-    
 
-- 파이썬 기본 문법 심화
+
+
+
+
+- :sparkling_heart:파이썬 기본 문법 심화:sparkling_heart:

@@ -2,7 +2,7 @@
 
 파이썬(python)에 대한 내용 정리!
 
-- Python basic
+- <a href="https://github.com/JJAN94/Python/tree/master/python_basic">Python basic</a>
 
   - 파이썬 기본 사용법 및 문법 정리
 
