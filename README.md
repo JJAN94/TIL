@@ -7,17 +7,6 @@ Today I Learned
 
 
 
-# Python
-
-# MachineLearning
-
-# DeepLearning
-
-
-
-
-
-
 
 ---
 
