@@ -1,8 +1,55 @@
 # :sparkles: TIL :sparkles:
 
-Today I Learned
+Today I Learned, 공부한 내용을 정리하자.
 
-test
+
+
+## Index
+
+### Python
+
+- 기초 문법
+- 넘파이, 판다스
+- 시각화
+- OOP
+
+### ML/DL
+- Machine Learning Algorithm
+- Deep Learning Algorithm
+- ML/DL을 위한 지식
+- Framework
+  - Tensorflow
+  - Pytorch
+  - TensorRT
+
+### Computer Vision
+
+- OpenCV
+- Object Detection
+- Segmentation
+
+### Natural Language Processing
+
+- 텍스트 분석
+
+### Data
+
+- Spark
+
+### Web
+
+- Django
+
+### GIT
+
+- git 정리
+- git error 메모
+
+### 기타
+
+- markdown
+
+
 
 
 
@@ -12,13 +59,7 @@ test
 
 ---
 
-### 공부 내용
-- python
-- OpenCV
-- ML/DL
-- 기계학습을 위한 선형대수와 최적화이론 완독
-
-
+## 참고
 
 ### 공부할 때 참고할 자료 및 사이트
 
@@ -38,6 +79,8 @@ test
 
 8. https://shb.skku.edu/bigs/menu3/sub01.jsp#l14 빅데이터 책 추천
 
+8. 코세라, 유데미
+
    
 
 ### Kaggle practice for beginner
@@ -50,3 +93,6 @@ test
 
 
 
+### Dacon - 데이콘
+
+- 데이콘 데이터분석/머신러닝 연습 https://www.dacon.io/
